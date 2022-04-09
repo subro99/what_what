@@ -64,20 +64,20 @@ git clone https://github.com/ZPXD/what_what.git/
 ```
 #### Utwórz i uruchom środowisko:
 ```
+cd what_what
 py -3 -m venv flagaenv
 flagaenv\Scripts\activate
 ```
 
 #### Zainstaluj wymagane biblioteki:
 ```
-cd what_what
 pip install -r requirements.txt
 ```
 
 #### Uruchom program:
 
 ```
-$env:FLASK_APP = "app.py"
+$env:FLASK_APP = "app" #nie trzeba jeśli aplikacja nazywa sie app.py
 flask run
 ```
 
