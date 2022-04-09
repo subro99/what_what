@@ -54,6 +54,7 @@ I wejdź na http://127.0.0.1:5000/
 ##Windows:
 
 U siebie na kompie potrzebujesz git, Git Bash, python, pip, venv, ssh)
+W VSC otwórz nowy terminal (powershell)
 
 ###Utwórz nowy folder do projektu i pobierz:
 
