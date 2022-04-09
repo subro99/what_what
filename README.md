@@ -64,13 +64,13 @@ git clone https://github.com/ZPXD/what_what.git/
 ```
 #### Utwórz i uruchom środowisko:
 ```
-cd what_what
 py -3 -m venv flagaenv
 flagaenv\Scripts\activate
 ```
 
 #### Zainstaluj wymagane biblioteki:
 ```
+cd what_what
 pip install -r requirements.txt
 ```
 
